@@ -1,0 +1,159 @@
+nav {
+  background-color: #c12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  list-style-type: none;
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.login-header {
+  margin: 0 auto;
+  float: right;
+}
+
+.header {
+  background-color: rgb(32, 101, 136);
+  background-image: url(https://static.npmjs.com/images/hero-cityscape.svg);
+  height: 400px;
+}
+
+.texto-header {
+  width: 600px;
+  margin-left: 300px;
+  color: white;
+}
+
+#barra-busqueda {
+  background-color: rgb(31, 82, 111);
+  margin-left: 20px;
+}
+
+.boton-header {
+  font-size: 1.2em;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(240, 146, 51);
+  box-sizing: border-box;
+  margin: 50px 5% 0px 5%;
+  padding: 10px;
+  color: white;
+  text-decoration-line: none;
+}
+.boton-busqueda {
+  color: white;
+  text-decoration-line: none;
+}
+
+.personas {
+  margin:  0 auto;
+  width: 50%;
+ 
+}
+
+.texto-personas {
+  float: right;
+  color: white;
+  padding-top: 20%
+}
+
+#orgs{
+  background-color: rgb(39, 53, 71);
+}
+
+.boton-personas {
+  font-size: 1.2em;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(203, 56, 55);
+  box-sizing: border-box;
+  margin: 50px 5% 0px 5%;
+  padding: 10px;
+  color: white;
+  text-decoration-line: none;
+}
+
+.texto-debajo-boton {
+  color: white;
+  text-decoration-line: none;
+ 
+}
+
+.container-boton-personas{
+  margin-top: 20px;
+  margin-bottom:20px; 
+}
+
+.clearfix {
+  clear: both;
+}
+
+#whatIsNpm{
+  background-color: rgb(32, 101, 136);
+  background-image: url(https://static.npmjs.com/images/npm-is-BOXES.svg);
+  height: 400px;
+}
+
+.texto-whatIsNpm{
+  width: 500px;
+  margin-left: 300px;
+  padding-top:100px;
+  color: white;
+}
+
+.boton-installNpm {
+  font-size: 1.2em;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(49, 68, 88);
+  box-sizing: border-box;
+  margin: 50px 5% 0px 5%;
+  padding: 10px;
+  color: white;
+  text-decoration-line: none;
+}
+
+.col {
+  float: left;
+  text-align: center;
+}
+
+
+.col-middle {
+  margin-left:5%;
+  margin-right:5%;  
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.titulo-footer{
+  text-align: center;
+}
+
+.texto-cajas{
+  margin-left:100px;
+  margin-right :100px;
+}
+
+ .texto-cajas a {
+  color:red;
+  text-decoration-line: none;
+}
